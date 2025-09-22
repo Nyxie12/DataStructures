@@ -1,5 +1,7 @@
 import java.util.LinkedList;
 
 public class LearningLinkedList {
-    LinkedList<Integer> =;
+    public static void main(String[] args){
+
+    }
 }
