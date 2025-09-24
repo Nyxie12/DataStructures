@@ -1,3 +1,11 @@
+// Name:		   Keith John
+// Class:	   CS 3305/Section04
+// Term:		   Fall 2025
+// Instructor:    Prof. Bradley
+// Assignment:         4
+// IDE Name:	   Intellij
+
+
 package StackADT;
 
 import java.util.Scanner;
