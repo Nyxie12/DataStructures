@@ -7,7 +7,6 @@
 
 package StackADT;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class ReverseString {
@@ -52,5 +51,6 @@ public class ReverseString {
                     System.out.println("Invalid Menu Number");
             }
         }
+        sc.close();
     }
 }
